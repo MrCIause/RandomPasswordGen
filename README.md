@@ -1,2 +1,3 @@
-# test1
-HI
+# RandomPasswordGen
+Created a random password generator,
+by Adi Shcherbakov.
